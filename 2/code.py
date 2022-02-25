@@ -42,3 +42,9 @@ if __name__ == "__main__":
     )
 
     print(a_norm)
+    a = np.array(
+        [[1, 2, 3],
+         [4, 5, 6]]
+    )
+    print(norm(a, axis=0, keepdims=False))
+    print(norm(a, axis=0, keepdims=False))
