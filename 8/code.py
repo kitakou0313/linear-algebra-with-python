@@ -35,4 +35,6 @@ if __name__ == "__main__":
     abc = np.linalg.multi_dot(
         [a, b, c]
     )
+    # かける順番を変えても結果は同じ
+    # 可換法則は成り立たない
     print(abc)
