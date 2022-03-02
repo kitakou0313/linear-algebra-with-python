@@ -35,7 +35,6 @@
 	"extensions": [
 		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"yzhang.markdown-all-in-one"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
