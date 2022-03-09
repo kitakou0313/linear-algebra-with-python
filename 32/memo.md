@@ -6,7 +6,7 @@
     - `rank(A) = dim(C(A))`
     - `dim(Ker(A))`を`退化次数（nullity）`
 
-## 部分空間関連の定理
+## 部分空間、列空間、行空間関連の定理
 - `A`をm*n行列とする
 - `dim(C(A)) = rank(A)`
 - `dim(C(A^T)) = rank(A)`
